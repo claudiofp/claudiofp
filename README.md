@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,60:0F3D3E,100:1ABC9C&height=230&section=header&text=Cl%C3%A1udio%20Fernando%20Pinto&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Co-founder%20%40%20StudioMoob%20%7C%20Sistemas%2C%20Automa%C3%A7%C3%B5es%20e%20IA%20para%20Neg%C3%B3cios&descSize=18&descAlignY=58&animation=fadeIn" alt="Cláudio Fernando Pinto" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,60:0F3D3E,100:1ABC9C&height=230&section=header&text=Cl%C3%A1udio%20Fernando%20Pinto&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Co-founder%20%40%20StudioMoob%20%7C%20Sistemas%2C%20Automa%C3%A7%C3%B5es%20e%20IA%20para%20Neg%C3%B3cios&descSize=18&descAlignY=58" alt="Cláudio Fernando Pinto" />
 </p>
 
 <p align="center">
@@ -16,16 +16,19 @@
 
 Sou **co-founder da [StudioMoob](https://www.studiomoob.com)**, empresa que fundei em **2011** com o Alessandro, em Belo Horizonte. São **mais de 14 anos** construindo sistemas, aplicativos, plataformas e integrações para pequenas e médias empresas, startups e marcas como **3M, Shopee, Xerox, Atlético Mineiro e Cruzeiro**.
 
+Grande parte da nossa atuação é em **outsourcing**: prestamos serviços de desenvolvimento de software para outras empresas, integrando-nos à operação, aos processos e à stack de cada cliente — de sistemas sob medida e apps a integrações e manutenção evolutiva.
+
 Hoje trabalho na fronteira entre **engenharia de software e Inteligência Artificial**: agentes de IA, sistemas inteligentes, automação de processos e integrações que conectam pessoas, processos e sistemas. Acredito que IA bem aplicada começa pela compreensão da operação, não pela ferramenta.
 
 | | |
 |---|---|
 | 🏢 **Função** | Co-founder & Owner @ StudioMoob — produto, arquitetura e IA aplicada |
 | 🎓 **Formação** | Bacharel em Ciência da Computação — Centro Universitário de Belo Horizonte |
+| 🤝 **Outsourcing** | Desenvolvimento de software como serviço para outras empresas, dentro do processo e da stack do cliente |
 | 🔭 **Foco** | Agentes de IA, inteligência organizacional, IA soberana (on-premise / LGPD), automação |
 | 🧪 **Pesquisando** | Filesystem nativo no kernel Linux como memória para agentes LLM ([llmoobfs](https://github.com/studiomoob/llmoobfs)) |
 | 📜 **Certificação** | LFD121: Developing Secure Software — The Linux Foundation |
-| 🤝 **Aberto a** | Parcerias de tecnologia, projetos de IA aplicada e colaboração open source |
+| 💬 **Aberto a** | Projetos de outsourcing, parcerias de tecnologia, projetos de IA aplicada e colaboração open source |
 | 📍 **Local** | Belo Horizonte — MG, Brasil 🇧🇷 |
 
 ## 🚀 Produtos que construímos
