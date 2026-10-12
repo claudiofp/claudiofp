@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=claudiofp&color=1ABC9C&style=flat-square&label=profile+views" alt="Profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=claudiofp.claudiofp&left_color=gray&right_color=%231ABC9C&left_text=profile%20views" alt="Profile views" />
 </p>
 
 <p align="center">
