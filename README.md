@@ -12,6 +12,10 @@
   <a href="https://github.com/studiomoob"><img src="https://img.shields.io/badge/StudioMoob_no_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="StudioMoob no GitHub" /></a>
 </p>
 
+<p align="center">
+  <b>🇧🇷 Português</b> · <a href="https://github.com/claudiofp/claudiofp/blob/main/README.en.md">🇺🇸 English</a>
+</p>
+
 ## 👋 Sobre mim
 
 Sou **co-founder da [StudioMoob](https://www.studiomoob.com)**, empresa que fundei em **2011** com o Alessandro, em Belo Horizonte. São **mais de 14 anos** construindo sistemas, aplicativos, plataformas e integrações para pequenas e médias empresas, startups e marcas como **3M, Shopee, Xerox, Atlético Mineiro e Cruzeiro**.
