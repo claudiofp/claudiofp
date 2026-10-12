@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,60:0F3D3E,100:1ABC9C&height=230&section=header&text=Cl%C3%A1udio%20Fernando%20Pinto&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Co-founder%20%40%20StudioMoob%20%7C%20Sistemas%2C%20Automa%C3%A7%C3%B5es%20e%20IA%20para%20Neg%C3%B3cios&descSize=18&descAlignY=58" alt="Cláudio Fernando Pinto" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,60:0F3D3E,100:1ABC9C&height=230&section=header&text=Cl%C3%A1udio%20Fernando%20Pinto&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Co-founder%20%40%20StudioMoob%20%7C%20Software%2C%20Automation%20and%20AI%20for%20Business&descSize=18&descAlignY=58" alt="Cláudio Fernando Pinto" />
 </p>
 
 <p align="center">
@@ -9,53 +9,53 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/claudiofernandopinto"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.studiomoob.com"><img src="https://img.shields.io/badge/studiomoob.com-0B1220?style=for-the-badge&logo=googlechrome&logoColor=1ABC9C" alt="StudioMoob" /></a>
-  <a href="https://github.com/studiomoob"><img src="https://img.shields.io/badge/StudioMoob_no_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="StudioMoob no GitHub" /></a>
+  <a href="https://github.com/studiomoob"><img src="https://img.shields.io/badge/StudioMoob_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="StudioMoob on GitHub" /></a>
 </p>
 
 <p align="center">
-  <b>🇧🇷 Português</b> · <a href="https://github.com/claudiofp/claudiofp/blob/main/README.en.md">🇺🇸 English</a>
+  <b>🇺🇸 English</b> · <a href="https://github.com/claudiofp/claudiofp/blob/main/README.pt-BR.md">🇧🇷 Português</a>
 </p>
 
-## 👋 Sobre mim
+## 👋 About me
 
-Sou **co-founder da [StudioMoob](https://www.studiomoob.com)**, empresa que fundei em **2011** com o Alessandro, em Belo Horizonte. São **mais de 14 anos** construindo sistemas, aplicativos, plataformas e integrações para pequenas e médias empresas, startups e marcas como **3M, Shopee, Xerox, Atlético Mineiro e Cruzeiro**.
+I am the **co-founder of [StudioMoob](https://www.studiomoob.com)**, a company I started in **2011** with Alessandro in Belo Horizonte, Brazil. For **more than 14 years** we have been building systems, apps, platforms and integrations for small and mid-sized businesses, startups and brands such as **3M, Shopee, Xerox, Atlético Mineiro and Cruzeiro**.
 
-Grande parte da nossa atuação é em **outsourcing**: prestamos serviços de desenvolvimento de software para outras empresas, integrando-nos à operação, aos processos e à stack de cada cliente — de sistemas sob medida e apps a integrações e manutenção evolutiva.
+A large part of our work is **outsourcing**: we provide software development services to other companies, fitting into each client's operation, processes and stack — from custom systems and apps to integrations and ongoing maintenance.
 
-Hoje trabalho na fronteira entre **engenharia de software e Inteligência Artificial**: agentes de IA, sistemas inteligentes, automação de processos e integrações que conectam pessoas, processos e sistemas. Acredito que IA bem aplicada começa pela compreensão da operação, não pela ferramenta.
+Today I work at the intersection of **software engineering and Artificial Intelligence**: AI agents, intelligent systems, process automation and integrations that connect people, processes and systems. I believe well-applied AI starts with understanding the operation, not the tool.
 
 | | |
 |---|---|
-| 🏢 **Função** | Co-founder & Owner @ StudioMoob — produto, arquitetura e IA aplicada |
-| 🎓 **Formação** | Bacharel em Ciência da Computação — Centro Universitário de Belo Horizonte |
-| 🤝 **Outsourcing** | Desenvolvimento de software como serviço para outras empresas, dentro do processo e da stack do cliente |
-| 🔭 **Foco** | Agentes de IA, inteligência organizacional, IA soberana (on-premise / LGPD), automação |
-| 🧪 **Pesquisando** | Filesystem nativo no kernel Linux como memória para agentes LLM ([llmoobfs](https://github.com/studiomoob/llmoobfs)) |
-| 📜 **Certificação** | LFD121: Developing Secure Software — The Linux Foundation |
-| 💬 **Aberto a** | Projetos de outsourcing, parcerias de tecnologia, projetos de IA aplicada e colaboração open source |
-| 📍 **Local** | Belo Horizonte — MG, Brasil 🇧🇷 |
+| 🏢 **Role** | Co-founder & Owner @ StudioMoob — product, architecture and applied AI |
+| 🤝 **Outsourcing** | Software development as a service for other companies, within the client's process and stack |
+| 🔭 **Focus** | AI agents, organizational intelligence, sovereign AI (on-premise / LGPD), automation |
+| 🧪 **Researching** | A native Linux kernel filesystem as memory for LLM agents ([llmoobfs](https://github.com/studiomoob/llmoobfs)) |
+| 🎓 **Education** | B.Sc. in Computer Science — Centro Universitário de Belo Horizonte |
+| 📜 **Certification** | LFD121: Developing Secure Software — The Linux Foundation |
+| 💬 **Open to** | Outsourcing projects, technology partnerships, applied AI projects and open-source collaboration |
+| 📍 **Location** | Belo Horizonte — MG, Brazil 🇧🇷 |
 
-## 🚀 Produtos que construímos
+## 🚀 Products we built
 
-| Produto | O que é |
+| Product | What it is |
 |---|---|
-| **Atendy** | Atendimento com IA para WhatsApp e Instagram |
-| **Corptex** | Plataforma de inteligência organizacional: o conhecimento da empresa consultável por IA |
-| **Teski** | Gestão para times: tarefas, sprints, reuniões, documentos e comunicação |
-| **Vinco** | SaaS de ATS + CRM para agências de recrutamento e staffing, com IA embarcada |
-| **Routix** | Roteirização logística (VRP) com capacidade, temperatura, janelas e jornada do motorista |
-| **Inspect** | Gestão de ativos, inspeções e manutenção para operações técnicas |
-| **Money Care** | Controle financeiro pessoal offline-first, sem pedir acesso ao banco |
-| **Futebol Plus** | App de futebol com **+2 milhões de downloads** |
+| **Atendy** | AI-powered customer service for WhatsApp and Instagram |
+| **Corptex** | Organizational intelligence platform: company knowledge, queryable by AI |
+| **Teski** | Team management: tasks, sprints, meetings, documents and communication |
+| **Vinco** | ATS + CRM SaaS for recruiting and staffing agencies, with built-in AI |
+| **Routix** | Logistics routing (VRP) with capacity, temperature, delivery windows and driver hours |
+| **Inspect** | Asset, inspection and maintenance management for technical operations |
+| **Money Care** | Offline-first personal finance app that never asks for bank access |
+| **Futebol Plus** | Football app with **2M+ downloads** |
 
-## 🔬 Em destaque
+## 🔬 Highlight
 
 ### [llmoobfs](https://github.com/studiomoob/llmoobfs)
-Módulo experimental do kernel Linux (GPL-2.0, sem FUSE): uma camada de filesystem empilhada sobre ext4, btrfs ou XFS que adiciona atributos xattr tipados, índice em memória e um ioctl de consulta autorizado pelas credenciais POSIX do chamador. Pensado como armazenamento de memória para agentes LLM. Projeto de pesquisa, não destinado a produção.
+Experimental Linux kernel module (GPL-2.0, no FUSE): a stacked filesystem layer over ext4, btrfs or XFS that adds typed xattr attributes, an in-memory index and a QUERY ioctl authorized by the caller's POSIX credentials. Intended as storage for LLM-agent memory. Research project, not for production.
 
 ## 🛠️ Stack
 
-**IA & dados**<br/>
+**AI & data**<br/>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
@@ -70,16 +70,16 @@ Módulo experimental do kernel Linux (GPL-2.0, sem FUSE): uma camada de filesyst
 <img src="https://img.shields.io/badge/Swift%20%2F%20iOS-F05138?style=flat-square&logo=swift&logoColor=white" />
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
 
-**Infra & sistemas**<br/>
+**Infra & systems**<br/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" />
 <img src="https://img.shields.io/badge/C%20%2F%20Linux%20kernel-A8B9CC?style=flat-square&logo=linux&logoColor=black" />
 
-## 🧭 Trajetória
+## 🧭 Career
 
-- **2011 – hoje** · Co-founder & Owner — StudioMoob
-- **2010 – 2011** · Sócio/Diretor — Mobilizando
+- **2011 – present** · Co-founder & Owner — StudioMoob
+- **2010 – 2011** · Partner/Director — Mobilizando
 - **2009 – 2011** · Senior iPhone/iPad Developer — Aorta Entretenimento
 - **2010** · Senior System Analyst (iOS enterprise + .NET) — ANGV Sistemas
 - **2006 – 2008** · Web Developer (PHP, MPS-BR) — Ponto MG
